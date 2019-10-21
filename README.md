@@ -2,6 +2,7 @@
 
 ##Description
 Canadian Members of Parliament and the analysis at the granular level using API’s as https://represent.opennorth.ca or https://openparliament.ca/api. This code is a small application where data is taken from Representative table, Members of Parliament table and Candidates table. The API’s are called, and the data is then loaded into data frames to do the analysis. 
+The code is in MP_analysis_python.ipynb
 
 ##Visuals
 Screenshots are included.
