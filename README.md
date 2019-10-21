@@ -2,7 +2,8 @@
 
 ##Description
 Canadian Members of Parliament and the analysis at the granular level using API’s as https://represent.opennorth.ca or https://openparliament.ca/api. This code is a small application where data is taken from Representative table, Members of Parliament table and Candidates table. The API’s are called, and the data is then loaded into data frames to do the analysis. 
-The code is in MP_analysis_python.ipynb
+The python code is in MP_analysis_python.ipynb.
+The Tableau Analysis is in MP_analysis_NewMode
 
 ##Visuals
 Screenshots are included.
@@ -18,6 +19,7 @@ conda install numpy
 conda install pandas
 conda install requests
 conda install -c conda-forge wordcloud
+
 
 ##Authors and acknowledgment
 Thank you to Andrew and Mark for the interesting Assignment.
